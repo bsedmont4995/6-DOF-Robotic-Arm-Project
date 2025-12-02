@@ -17,3 +17,9 @@ Robot:
 Demo Videos:
 - https://youtube.com/shorts/FU3pKQ7Fjlg?feature=share
 - https://youtube.com/shorts/MKm0NM8UlUA
+
+Competition Video:
+- https://github.com/user-attachments/assets/f0474b4a-21b9-485c-8781-e21dfd4e6830
+
+
+
